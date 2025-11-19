@@ -1,2 +1,5 @@
-# my-table-repo.
- Markdown
+| Name | Age | City |
+|------|-----|------|
+| Ali  | 25  | Tehran |
+| Sara | 30  | Isfahan |
+| Reza | 28  | Shiraz |
